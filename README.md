@@ -1,5 +1,4 @@
 # Lora pH temperature sensor
- Lora pH temperature sensor
 
 | Electronic design | LoRa T-Beam |
 |------------|-------------|
