@@ -13,5 +13,4 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 * [T-Beam v1.1](https://www.aliexpress.com/premium/Ttgo-T%25252dBeam-V1.1.html) 
 
 # Assembly-tips
-- Desolder the T-Beam lIPO-holder, we don't use it.
-  Reason: the pH-sensor drains the 18650 battery too fast.
+- Desolder the T-Beam lIPO-holder, we don't use it: the pH-sensor drains the 18650 battery too fast.
