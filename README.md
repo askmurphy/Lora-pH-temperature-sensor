@@ -10,7 +10,7 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 
 # Parts
 
-* [T-Beam v1.1](https://www.lilygo.cn/prod_view.aspx?TypeId=50060&Id=1164&FId=t3:50060:3) 
+* [T-Beam v1.1](https://www.aliexpress.com/premium/Ttgo-T%25252dBeam-V1.1.html) 
 
 
 
