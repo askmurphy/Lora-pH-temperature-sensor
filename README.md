@@ -1,6 +1,6 @@
 # LoRa pH temperature sensor
 
-![Alt text](img/sensor.jpp?raw=true "LoRa pH temperature sensor")
+|![Alt text](img/sensor.jpp?raw=true "LoRa pH temperature sensor")|
 
 | Electronic design | LoRa T-Beam |
 |------------|-------------|
