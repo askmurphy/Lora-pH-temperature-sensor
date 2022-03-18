@@ -93,6 +93,9 @@ void Gravity_pH::cal_clear() {
   this->pH.low_cal = 18908.02;
   this->pH.high_cal = 11751.09;
   EEPROM.put(this->EEPROM_offset,pH);
+  #if defined(ESP8266) || defined(ESP32)
+    EEPROM.commit(); 
+  #endif
 }
 
 float Gravity_pH::pH_getLow(void)

@@ -17,7 +17,7 @@
       lcd.setCursor(0,0);
       switch(displaymode) {
          case display_LoRa: 
-            lcd.print("LoRa monitor");
+            lcd.print("LoRa monitor 1.0");
          break;
          case display_Calibration: 
             lcd.print("Calibration");

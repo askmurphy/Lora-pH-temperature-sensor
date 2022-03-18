@@ -1,6 +1,6 @@
 /*******************************************************************************
  *
- *  File:          LMIC-node.cpp
+ *  File:         SpillPond.cpp
  * 
  *  Function:      LMIC-node main application file.
  * 
@@ -57,7 +57,9 @@
 //  █ █ ▀▀█ █▀▀ █▀▄   █   █ █ █ █ █▀▀   █▀▄ █▀▀ █ █  █  █ █
 //  ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀   ▀▀▀ ▀▀▀ ▀▀  ▀▀▀   ▀▀  ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀
 
-//  Copyright:  (c) 2021 Arthur Kerkmeester, info@flashbios.org
+//  Copyright:  (c) 2021-2022 Arthur Kerkmeester, info@flashbios.org
+
+// version 1.0
 
 // LORA REMOTE RESET: (downlink) cmdPort = 100,  resetCmd= 0xC0
 
@@ -712,7 +714,8 @@ static volatile uint16_t counter_ = 0;
 uint16_t getCounterValue()
 {
     // Increments counter and returns the new value.
-    delay(50);         // Fake this takes some time
+   // delay(50);         // Fake this takes some time
+    if (counter_>360) { counter_=0;}
     return ++counter_;
 }
 

@@ -67,9 +67,10 @@ class Gravity_pH : public Gravity_Base{
 		  //float mid_cal = 1500;
 		  //float low_cal = 2030;
 		  //float high_cal = 975;
-		  float mid_cal = 14595.64;
-		  float low_cal = 18908.02;
-		  float high_cal = 11751.09;
+		  // values after calibration with pH-buffers 4,7 & 10 (26-11-2021): 
+		  float mid_cal = 14689.41;   // pH7
+		  float low_cal = 18999.75;   // pH4
+		  float high_cal = 11742.13;  // pH10
 		};
 		struct PH pH;
 };
