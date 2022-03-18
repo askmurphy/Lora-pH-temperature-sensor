@@ -24,7 +24,7 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 
 # Used software
 - Visual Studio Code with PlatformIO
-- LMIC node package
+- LMIC node package: https://github.com/lnlp/LMIC-node
 
 # LoRa setup
 - you need to rename the lorawan-keys_example.h file into lorawan-keys.h and change the content, see LMIC documentation.
