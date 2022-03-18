@@ -21,8 +21,8 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 
 # Buttons
 - The User button is fitted to the case, with this button you can enable/disable the LCD backlight.
-- With the Calibrate mode button you can step through the usermenu: you can enable/disable GPS, and calibrate the pH-sensor with pH-buffers 4,7 and 10.
-- The Calibrate button must be used to activate a specific usermenu option.
+- With the MENU (Calibrate mode) button you can step through the menu: you can enable/disable GPS, and calibrate the pH-sensor with pH-buffers 4,7 and 10.
+- The SET (Calibrate) button must be used to activate a specific menu option.
 
 # Used software
 - Visual Studio Code with PlatformIO
