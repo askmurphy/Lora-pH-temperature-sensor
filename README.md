@@ -22,7 +22,11 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 - With the Calibrate mode button you can step through the usermenu: you can enable/disable GPS, and calibrate the pH-sensor with pH-buffers 4,7 and 10.
 - The Calibrate button must be used to activate a specific usermenu option.
 
-# Used software: Visual Studio Code with PlatformIO, LMIC node package
+# Used software
+- Visual Studio Code with PlatformIO
+- LMIC node package
+
+# LoRa setup
 - you need to rename the lorawan-keys_example.h file into lorawan-keys.h and change the content, see LMIC documentation.
  
 # Assembly-tips
