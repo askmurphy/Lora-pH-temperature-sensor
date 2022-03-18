@@ -6,7 +6,8 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 
 | Electronic design | LoRa T-Beam |
 |------------|-------------|
-| ![Alt text](img/Schematic.png?raw=true "Electronic design") | ![Alt text](img/T-BeamV1dot1.jpeg?raw=true "T-Beam v1.1") |
+| ![Electronic design](img/Schematic.png?raw=true "Electronic design") | ![T-Beam v1.1](img/T-BeamV1dot1.jpeg?raw=true "T-Beam v1.1") |
+| ![Electronic design](img/temperature.png?raw=true "Temperature graph") | ![pH graph](img/ph.png?raw=true "pH graph") |
 
 # Parts
 
