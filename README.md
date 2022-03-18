@@ -30,6 +30,10 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 
 # LoRa setup
 - you need to rename the lorawan-keys_example.h file into lorawan-keys.h and change the content, see LMIC documentation.
+
+# pH meter
+- The pH meter must be calibrated on a regular basis, there is no temperature compensation build in, but maybe someone can add that to the software, would be nice.
+
  
 # Assembly-tips
 - Desolder the T-Beam lIPO-holder, we don't use it: the pH-sensor drains the 18650 battery too fast.
