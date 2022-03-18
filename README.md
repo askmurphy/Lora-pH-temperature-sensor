@@ -16,6 +16,8 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 # Parts
 
 * [T-Beam v1.1](https://www.aliexpress.com/premium/Ttgo-T%25252dBeam-V1.1.html) 
+* Kradex case: Z74JPH TM ABS
+* Kradex case plate: https://www.thingiverse.com/thing:5322236
 
 # Buttons
 - The User button is fitted to the case, with this button you can enable/disable the LCD backlight.
