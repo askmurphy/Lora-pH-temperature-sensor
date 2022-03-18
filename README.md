@@ -9,7 +9,7 @@ This is a nice LoRa sensor for measuring the pH and the temperature of your swim
 | ![Electronic design](img/Schematic.png?raw=true "Electronic design") | ![T-Beam v1.1](img/T-BeamV1dot1.jpeg?raw=true "T-Beam v1.1") |
 
 
-| cayenne.mydevices temperature graph | cayenne.mydevices temperature graph|
+| cayenne.mydevices temperature graph | cayenne.mydevices pH graph|
 |------------|-------------|
 | ![Temperature graph](img/temperature.png?raw=true "Temperature graph") | ![pH graph](img/pH.png?raw=true "pH graph") |
 
